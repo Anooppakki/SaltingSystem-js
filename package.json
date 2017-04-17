@@ -1,0 +1,15 @@
+{
+  "name": "hasgen",
+  "version": "1.0.0",
+  "description": "a tool to generate random hases",
+  "main": "index.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anoop",
+  "license": "ISC"
+}
